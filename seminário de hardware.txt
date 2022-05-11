@@ -1,0 +1,58 @@
+JOSÉ EDUARDO BERNARDO DE ALMEIDA    
+LUCAS GABRIEL DE ASSIS BERNARDO             
+RODRIGO VINCI MARQUES                                   
+RYAN CLAYTON OLIVEIRA SILVA             
+
+
+
+Clayton: Memória secundária, principal, registradoras e cache.
+Lucas:Defina/ conceitue / Cite um modelo / marca / características. 
+Rodrigão:/ imagens / Mostrar User guide ou Data-sheet (16:20h às 16:30h)
+
+O que é memória primaária:
+
+Estreitamente relacionada com o processador, mas distinta dele.Provê armazenamento temporário.
+Memória primária é a memória do computador que um processador ou computador acessa primeiro ou diretamente. 
+Ele permite que um processador acesse aplicativos e serviços de execução em execução armazenados
+temporariamente em um local de memória específico.A memória primária também é conhecida 
+como armazenamento principal ou memória principal. Sua principal função é conter as informações necessárias
+para o processador num determinado momento, sem elas o computador não pode funcionar. 
+Podemos citar, por exemplo, a memória RAM (volátil), memória ROM (não volátil), registradores e memórias cachê.
+
+
+
+O que é memória secundária:
+
+
+Memória secundária refere-se a dispositivos de armazenamento,
+Tais como Discos rígidos e unidades de estado sólido. Também pode se referir a mídia de armazenamento removível, 
+como USB Pen drives, CDse DVDs.
+Ao contrário memória primária, a memória secundária não é acessada diretamente pelo CPU. 
+Em vez de, dados acessado da memória secundária é carregado primeiro no RAM e então é enviado para o processador. 
+A RAM desempenha um papel intermediário importante, pois fornece velocidades de acesso a 
+dados muito mais rápidas que a memória secundária. Ao carregar o software programas e arquivos na memória primária, 
+os computadores podem processar dados muito mais rapidamente.
+Embora a memória secundária seja muito mais lenta que a memória primária, ela normalmente oferece uma capacidade 
+de armazenamento muito maior. Por exemplo, um computador pode ter um terabyte disco rígido, mas apenas o 
+16 gigabytes de RAM. Isso significa que o computador possui aproximadamente 64 vezes mais memória secundária que 
+a memória primária. Além disso, a memória secundária não é volátil, o que significa que retém seus dados com ou 
+semenergia elétrica. A RAM, por outro lado, é apagada quando um computador é desligado ou reiniciado. 
+Portanto, a memória secundária é usada para armazenar "dados permanentes", como o sistema operativo, 
+aplicaçõese arquivos de usuário.
+
+
+registradoras:
+
+Como jáfoi
+dito,um registrador ou célula de memória é um circuito eletrônico capaz de armazenar uma pequena quantidade de Bytes
+(geralmente 1 Byte). Os registradores estão no topo da hierarquia de memória, sendo assim, são o meio mais rápido e
+caro de se armazenar um dado. É uma espécie de secretáriautilizada para armazenar todos os dados sobre os
+quais serão realizados algum tipo de operação (ADD, MOVE, SHIFT, etc.). Eletambém armazena os resultados dessas 
+operações. Por exemplo, quando uma instrução de soma entre duas variáveis quaisquer (A e B) é executada, antes da
+soma ser realizada, as variáveis serão carregadas, da memória RAM, para dentro de dois registradores. Só depois a
+soma é realizada. Isso acontece porque somente os registradores possuem comunicação direta com a CPU de um
+processador. O resultado da operação também será armazenado em outro registrador antes de ser carregado na memória
+RAM. No PIC18F4550 esses registradores são chamados de GPR (General Purpose Register – Registradores de Propósito
+ Geral).
+
+cache:           
